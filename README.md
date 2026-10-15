@@ -32,9 +32,8 @@ This project focuses on the design and simulation of a 4-bit binary arithmetic c
 
 - `src/` - Circuit implementation
 - `docs/` - Presentation and documentation
-- `data/` - Supporting data and test cases
 - `results/` - Simulation results
-- `reports/` - Project reports
+
 
 ## Setup and Execution
 
